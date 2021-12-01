@@ -1,0 +1,18 @@
+body {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #fff;
+  font-size: 21px;
+  font-family: "Montserrat";
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+header {
+  margin: 0 auto;
+  background: url("../img/background.png") no-repeat top left;
+  background-size: cover;
+}
